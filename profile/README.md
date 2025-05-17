@@ -75,8 +75,7 @@ Unlike old tools that risk bans or instability, Sapphire uses external overlay v
 
 ---
 
-### 🧩 SEO Keywords
+## 🔎 SEO Keywords
 
-`cs2 skinchanger`, `cs2 soft`, `cs2 glove changer`, `cs2 knife changer`,  
-`counter-strike 2 skins`, `sapphire cs2`, `cs2 inventory visualizer`, `cs2 sticker customizer`,  
-`real-time cs2 skinchanger`
+cs 2 skin changer, cs skin, cs 2 skin, cs2 skinchanger, skin changer, sapphire skinchanger, cs2 visual tool, cs2 skin swap, cs2 inventory editor, cs2 cosmetic changer, cs2 knife changer, cs2 gloves changer, cs2 workshop skins, cs2 custom skins, cs2 modding tool, cs2 skin loadout manager, cs2 inventory injector, cs2 ui customizer, cs2 offline skin tool, cs2 texture swapper, cs2 appearance editor, cs2 no vac tool, cs2 skin plugin, cs2 skin emulator, cs2 visual override, cs2 local skin changer
+
