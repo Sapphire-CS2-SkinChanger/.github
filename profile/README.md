@@ -62,7 +62,7 @@ Unlike old tools that risk bans or instability, Sapphire uses external overlay v
 ### 🖼 Preview
 
 **1. Knife & Glove Selection Panel**  
-![Knife & Gloves](https://i.ytimg.com/vi/zuC7stl3WWc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBAm08_J2YNx07iwtn65pijeKoIAw)  
+![Knife & Gloves](https://repository-images.githubusercontent.com/901613522/c75c1ec8-8693-414a-9b9a-55c46e59b328)  
 *Pick your dream knife and gloves with accurate real-time model preview.*
 
 **2. Sticker Editing UI**  
